@@ -87,13 +87,6 @@
 </div>
 
 <div style="border:2px solid #888888; border-radius:6px; padding:12px; background:#1e1e1e; color:#ffffff;">
-<strong>⬜ "Гнев"</strong><br>
-Наносит больше урона за каждое недостающее здоровье.<br><br>
-<strong>Применяется к:</strong> Оружие<br>
-<strong>Максимальный уровень:</strong> 5
-</div>
-
-<div style="border:2px solid #888888; border-radius:6px; padding:12px; background:#1e1e1e; color:#ffffff;">
 <strong>⬜ "Гром"</strong><br>
  Шанс ударить молнией.<br><br>
 <strong>Применяется к:</strong> Оружие<br>
@@ -333,7 +326,7 @@
 
 <div style="border:2px solid #888888; border-radius:6px; padding:12px; background:#1e1e1e; color:#ffffff;">
 <strong>⬜ "Походка по лаве"</strong><br>
-Возможность ходить по лаве, к урону от магмы.<br><br>
+Возможность ходить по лаве, иммунитет к урону от магмы.<br><br>
 <strong>Применяется к:</strong> Ботинки<br>
 <strong>Максимальный уровень:</strong> 2
 </div>
